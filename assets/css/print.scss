@@ -44,8 +44,9 @@ table {
   border-spacing: 0;
   border-collapse: collapse;
 }
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: arial,'Nanum Gothic',helvetica,sans-serif!important;
   font-size: 13px;
   line-height: 1.5;
   color: #000;
