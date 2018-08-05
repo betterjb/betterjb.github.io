@@ -1,6 +1,7 @@
 theme: jekyll-theme-architect
 
-gem "github-pages", group: :jekyll_plugins
 
-title: Welcome to JB house
-description: I wanna git blog ㅠㅠ
+title: JB house
+description: Welcome :D
+
+show_downloads : false
