@@ -21,6 +21,10 @@ time, mark, audio, video {
   vertical-align: baseline;
   border: 0;
 }
+
+// Typography
+$font-family: 'Nanum Gothic', 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
