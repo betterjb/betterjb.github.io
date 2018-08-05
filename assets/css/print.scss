@@ -22,9 +22,6 @@ time, mark, audio, video {
   border: 0;
 }
 
-// Typography
-$font-family: 'Nanum Gothic', 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
-
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -50,6 +47,7 @@ table {
 }
 
 body {
+  font-family: 'Nanum Gothic','Helvetica Neue', Helvetica, Arial, serif;
   font-size: 13px;
   line-height: 1.5;
   color: #000;
