@@ -5,3 +5,5 @@ title: JB house
 description: Welcome :D
 
 show_downloads : false
+github :
+   is_project_page : false
