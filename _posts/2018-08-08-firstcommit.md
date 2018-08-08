@@ -2,8 +2,8 @@
 layout: post
 title:  ""
 subtitle:   "블로그"
-categories: essay
-tags: essay
+categories: Tip
+tags: Tip
 comments: true
 ---
 
