@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Event
-slug: event
-category: review
+title: Python
+slug: python
+category: Lang
 menu: false
 order: 1
 ---
