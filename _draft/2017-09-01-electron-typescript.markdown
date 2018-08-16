@@ -2,8 +2,8 @@
 layout: post
 title:  "[CV]Curriculum Vitae"
 subtitle:   "Curriculum Vitae"
-categories: review
-tags: event
+categories: lang
+tags: html
 comments: true
 ---
 
