@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "First python study"
-subtitle:   "First python study"
+layout: post  
+title:  "First python study"  
+subtitle:   "First python study"  
 categories: lang
 tags: python
 comments: true
