@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  ""
+title:  "블로그"
 subtitle:   "블로그"
-categories: Tip
-tags: Tip
+categories: Exercise
+tags: Exercise
 comments: true
 ---
 
