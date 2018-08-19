@@ -8,10 +8,8 @@
           {% if author.picture %}
           {% include srcset-img.html class="me" img=author.picture alt=author.name %}
           {% endif %}
+          {{ site.tagline | truncatewords:50 | markdownify }}
         </div>
-
-        <h1><a id="_title" href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        {{ site.tagline | truncatewords:50 | markdownify }}
       </div>
 
       <br/>
@@ -20,19 +18,6 @@
         {% include nav.html %}
       </nav>
     <br/>
-    <br/>
-      <div class="sidebar-box">
-        {% if author.picture %}
-          {% include srcset-img.html class="me" img=author.picture alt=author.name %}
-        {% endif %}
-      </div>
-      {{ site.description | truncatewords:50 | markdownify }}
-      {% assign author = site.data.authors.first[1] %}
-      {% if author.social %}
-        <div class="sidebar-social">
-          {% include social.html social=author.social %}
-        </div>
-      {% endif %}
     </header>
   </div>
 </div>
