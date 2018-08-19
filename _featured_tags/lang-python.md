@@ -4,6 +4,6 @@ title: Python
 slug: python
 category: Lang
 menu: false
-order: 1
+order: 2
 header-img: "/img/python-logo.png"
 ---

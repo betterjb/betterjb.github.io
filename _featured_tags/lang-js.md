@@ -4,5 +4,5 @@ title: JS
 slug: js
 category: lang
 menu: false
-order: 2
+order: 3
 ---
