@@ -8,7 +8,8 @@
           {% if author.picture %}
           {% include srcset-img.html class="me" img=author.picture alt=author.name %}
           {% endif %}
-          {{ site.tagline | truncatewords:50 | markdownify }}
+          <br/>
+          <h4>{{ site.tagline | truncatewords:50 | markdownify }}</h4>
         </div>
       </div>
 
