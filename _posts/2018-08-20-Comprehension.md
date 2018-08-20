@@ -1,3 +1,12 @@
+---
+layout: post  
+title: "Comprehension"  
+subtitle: "Comprehension"  
+categories: lang        
+tags: Python    
+comments: false  
+---
+
 ##  Python Comprehension
 
 Comprehension의 사전적 의미로 '이해', '포함' 이라는 뜻을 가지고 있다.
